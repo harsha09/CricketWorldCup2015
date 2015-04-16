@@ -1,0 +1,865 @@
+,MatchNum,Country,Batsman,Dismissal-Info,R,M,B,4s,6s,SR
+0,1,New Zealand,MJ Guptill,c †Sangakkara b Lakmal,49,94,62,5,0,79.03
+1,1,New Zealand,BB McCullum*,c Mendis b Herath,65,68,49,10,1,132.65
+2,1,New Zealand,KS Williamson,c Karunaratne b Mendis,57,70,65,5,1,87.69
+3,1,New Zealand,LRPL Taylor,st †Sangakkara b Mendis,14,49,28,0,0,50.00
+4,1,New Zealand,GD Elliott,c Thirimanne b Lakmal,29,53,34,2,0,85.29
+5,1,New Zealand,CJ Anderson,c Lakmal b Kulasekara,75,77,46,8,2,163.04
+6,1,New Zealand,L Ronchi†,not out,29,29,19,4,0,152.63
+7,1,Sri Lanka,HDRL Thirimanne,b Boult,65,90,60,8,0,108.33
+8,1,Sri Lanka,TM Dilshan,c & b Vettori,24,50,41,2,0,58.53
+9,1,Sri Lanka,KC Sangakkara†,lbw b Boult,39,48,38,5,0,102.63
+10,1,Sri Lanka,DPMD Jayawardene,c †Ronchi b Vettori,0,3,4,0,0,0.00
+11,1,Sri Lanka,FDM Karunaratne,b Milne,14,32,21,0,0,66.66
+12,1,Sri Lanka,AD Mathews*,c Vettori b Southee,46,80,52,5,0,88.46
+13,1,Sri Lanka,BMAJ Mendis,c †Ronchi b Milne,4,5,4,1,0,100.00
+14,1,Sri Lanka,KMDN Kulasekara,c Elliott b Anderson,10,32,21,1,0,47.61
+15,1,Sri Lanka,HMRKB Herath,c Milne b Anderson,13,41,19,2,0,68.42
+16,1,Sri Lanka,SL Malinga,c †Ronchi b Southee,0,4,1,0,0,0.00
+17,1,Sri Lanka,RAS Lakmal,not out,7,21,17,0,0,41.17
+18,2,Australia,DA Warner,b Broad,22,34,18,3,0,122.22
+19,2,Australia,AJ Finch,run out (Morgan),135,158,128,12,3,105.46
+20,2,Australia,SR Watson,c †Buttler b Broad,0,1,1,0,0,0.00
+21,2,Australia,SPD Smith,b Woakes,5,14,9,1,0,55.55
+22,2,Australia,GJ Bailey*,b Finn,55,113,69,3,0,79.71
+23,2,Australia,GJ Maxwell,c Root b Finn,66,63,40,11,0,165.00
+24,2,Australia,MR Marsh,c Root b Finn,23,31,20,3,0,115.00
+25,2,Australia,BJ Haddin†,c Broad b Finn,31,23,14,5,0,221.42
+26,2,Australia,MG Johnson,c Anderson b Finn,0,3,1,0,0,0.00
+27,2,Australia,MA Starc,not out,0,1,0,0,0,-
+28,2,England,MM Ali,c Bailey b Starc,10,20,13,2,0,76.92
+29,2,England,IR Bell,c Starc b Marsh,36,63,45,4,0,80.00
+30,2,England,GS Ballance,c Finch b Marsh,10,23,13,2,0,76.92
+31,2,England,JE Root,c †Haddin b Marsh,5,20,12,0,0,41.66
+32,2,England,EJG Morgan*,c †Haddin b Marsh,0,24,6,0,0,0.00
+33,2,England,JWA Taylor,not out,98,126,90,11,2,108.88
+34,2,England,JC Buttler†,c Smith b Marsh,10,11,12,1,0,83.33
+35,2,England,CR Woakes,c Smith b Johnson,37,54,42,2,0,88.09
+36,2,England,SCJ Broad,b Starc,0,3,1,0,0,0.00
+37,2,England,ST Finn,c & b Johnson,1,4,6,0,0,16.66
+38,2,England,JM Anderson,run out (Maxwell),8,26,11,1,0,72.72
+39,3,South Africa,Q de Kock†,c Ervine b Chatara,7,16,16,1,0,43.75
+40,3,South Africa,HM Amla,b Panyangara,11,36,26,1,0,42.30
+41,3,South Africa,F du Plessis,c †Taylor b Chigumbura,24,60,32,0,1,75.00
+42,3,South Africa,AB de Villiers*,c Ervine b Kamungozi,25,53,36,1,1,69.44
+43,3,South Africa,DA Miller,not out,138,133,92,7,9,150.00
+44,3,South Africa,JP Duminy,not out,115,119,100,9,3,115.00
+45,3,Zimbabwe,CJ Chibhabha,c Duminy b Imran Tahir,64,93,82,10,0,78.04
+46,3,Zimbabwe,Sikandar Raza,b Philander,5,27,13,1,0,38.46
+47,3,Zimbabwe,H Masakadza,c Amla b Imran Tahir,80,98,74,8,2,108.10
+48,3,Zimbabwe,BRM Taylor†,c Philander b Morkel,40,51,40,4,1,100.00
+49,3,Zimbabwe,SC Williams,c †de Kock b Duminy,8,26,13,1,0,61.53
+50,3,Zimbabwe,CR Ervine,c de Villiers b Steyn,13,29,21,0,1,61.90
+51,3,Zimbabwe,E Chigumbura*,run out (de Villiers),8,13,7,0,1,114.28
+52,3,Zimbabwe,SF Mire,c de Villiers b Philander,27,28,25,2,2,108.00
+53,3,Zimbabwe,T Panyangara,c de Villiers b Imran Tahir,4,3,4,1,0,100.00
+54,3,Zimbabwe,TL Chatara,c & b Morkel,6,21,11,1,0,54.54
+55,3,Zimbabwe,T Kamungozi,not out,0,4,0,0,0,-
+56,4,India,RG Sharma,c Misbah-ul-Haq b Sohail Khan,15,35,20,2,0,75.00
+57,4,India,S Dhawan,run out (Misbah-ul-Haq),73,136,76,7,1,96.05
+58,4,India,V Kohli,c †Umar Akmal b Sohail Khan,107,168,126,8,0,84.92
+59,4,India,SK Raina,c Haris Sohail b Sohail Khan,74,78,56,5,3,132.14
+60,4,India,MS Dhoni*†,c Misbah-ul-Haq b Sohail Khan,18,22,13,1,1,138.46
+61,4,India,RA Jadeja,b Wahab Riaz,3,7,5,0,0,60.00
+62,4,India,AM Rahane,b Sohail Khan,0,3,1,0,0,0.00
+63,4,India,R Ashwin,not out,1,4,1,0,0,100.00
+64,4,India,Mohammed Shami,not out,3,2,3,0,0,100.00
+65,4,Pakistan,Ahmed Shehzad,c Jadeja b Yadav,47,95,73,5,0,64.38
+66,4,Pakistan,Younis Khan,c †Dhoni b Mohammed Shami,6,13,10,1,0,60.00
+67,4,Pakistan,Haris Sohail,c Raina b Ashwin,36,60,48,3,0,75.00
+68,4,Pakistan,Misbah-ul-Haq*,c Rahane b Mohammed Shami,76,118,84,9,1,90.47
+69,4,Pakistan,Sohaib Maqsood,c Raina b Yadav,0,1,2,0,0,0.00
+70,4,Pakistan,Umar Akmal†,c †Dhoni b Jadeja,0,5,4,0,0,0.00
+71,4,Pakistan,Shahid Afridi,c Kohli b Mohammed Shami,22,39,22,1,1,100.00
+72,4,Pakistan,Wahab Riaz,c †Dhoni b Mohammed Shami,4,2,2,1,0,200.00
+73,4,Pakistan,Yasir Shah,c Yadav b MM Sharma,13,32,23,1,0,56.52
+74,4,Pakistan,Sohail Khan,c Yadav b MM Sharma,7,21,10,1,0,70.00
+75,4,Pakistan,Mohammad Irfan,not out,1,6,5,0,0,20.00
+76,5,West Indies,DR Smith,c Mooney b KJ O'Brien,18,29,24,3,0,75.00
+77,5,West Indies,CH Gayle,c KJ O'Brien b Dockrell,36,79,65,3,1,55.38
+78,5,West Indies,DM Bravo,run out (McBrine),0,4,0,0,0,-
+79,5,West Indies,MN Samuels,lbw b Dockrell,21,49,41,1,1,51.21
+80,5,West Indies,D Ramdin†,lbw b Dockrell,1,12,6,0,0,16.66
+81,5,West Indies,LMP Simmons,c Dockrell b Sorensen,102,124,84,9,5,121.42
+82,5,West Indies,DJG Sammy,c Dockrell b Mooney,89,88,67,9,4,132.83
+83,5,West Indies,AD Russell,not out,27,29,13,3,1,207.69
+84,5,West Indies,JO Holder*,not out,0,2,0,0,0,-
+85,5,Ireland,WTS Porterfield*,c †Ramdin b Gayle,23,57,43,1,1,53.48
+86,5,Ireland,PR Stirling,c †Ramdin b Samuels,92,115,84,9,3,109.52
+87,5,Ireland,EC Joyce,c Bravo b Taylor,84,111,67,10,2,125.37
+88,5,Ireland,NJ O'Brien,not out,79,90,60,11,0,131.66
+89,5,Ireland,A Balbirnie,c Bravo b Taylor,9,13,9,2,0,100.00
+90,5,Ireland,GC Wilson†,c Gayle b Taylor,1,12,6,0,0,16.66
+91,5,Ireland,KJ O'Brien,run out (Smith/Roach),0,3,1,0,0,0.00
+92,5,Ireland,JF Mooney,not out,6,9,5,1,0,120.00
+93,6,Scotland,KJ Coetzer,c Elliott b Southee,1,20,10,0,0,10.00
+94,6,Scotland,CS MacLeod,lbw b Boult,0,5,1,0,0,0.00
+95,6,Scotland,HJW Gardiner,lbw b Boult,0,2,1,0,0,0.00
+96,6,Scotland,MW Machan,c McCullum b Anderson,56,111,79,7,1,70.88
+97,6,Scotland,PL Mommsen*,lbw b Southee,0,3,1,0,0,0.00
+98,6,Scotland,RD Berrington,c Milne b Anderson,50,104,80,4,1,62.50
+99,6,Scotland,MH Cross†,c †Ronchi b Anderson,14,28,18,2,0,77.77
+100,6,Scotland,JH Davey,not out,11,36,19,1,0,57.89
+101,6,Scotland,RML Taylor,st †Ronchi b Vettori,4,6,6,0,0,66.66
+102,6,Scotland,RM Haq,c Taylor b Vettori,0,6,2,0,0,0.00
+103,6,Scotland,I Wardlaw,lbw b Vettori,0,4,1,0,0,0.00
+104,6,New Zealand,MJ Guptill,c †Cross b Wardlaw,17,10,14,4,0,121.42
+105,6,New Zealand,BB McCullum*,c †Cross b Wardlaw,15,28,12,3,0,125.00
+106,6,New Zealand,KS Williamson,c †Cross b Davey,38,60,45,6,0,84.44
+107,6,New Zealand,LRPL Taylor,c Taylor b Haq,9,15,14,1,0,64.28
+108,6,New Zealand,GD Elliott,c †Cross b Wardlaw,29,41,31,5,0,93.54
+109,6,New Zealand,CJ Anderson,c Wardlaw b Davey,11,25,16,1,0,68.75
+110,6,New Zealand,L Ronchi†,c Gardiner b Davey,12,12,10,2,0,120.00
+111,6,New Zealand,DL Vettori,not out,8,9,4,1,0,200.00
+112,6,New Zealand,AF Milne,not out,1,6,3,0,0,33.33
+113,7,Bangladesh,Anamul Haque,lbw b Mirwais Ashraf,29,66,55,4,0,52.72
+114,7,Bangladesh,Tamim Iqbal,c †Afsar Zazai b Mirwais Ashraf,19,58,42,2,0,45.23
+115,7,Bangladesh,Soumya Sarkar,lbw b Shapoor Zadran,28,51,25,3,1,112.00
+116,7,Bangladesh,Mahmudullah,c †Afsar Zazai b Shapoor Zadran,23,55,46,0,0,50.00
+117,7,Bangladesh,Shakib Al Hasan,b Hamid Hassan,63,86,51,6,1,123.52
+118,7,Bangladesh,Mushfiqur Rahim†,c Samiullah Shenwari b Mohammad Nabi,71,83,56,6,1,126.78
+119,7,Bangladesh,Sabbir Rahman,b Hamid Hassan,3,7,8,0,0,37.50
+120,7,Bangladesh,Mashrafe Mortaza*,b Aftab Alam,14,12,9,3,0,155.55
+121,7,Bangladesh,Mominul Haque,run out (†Afsar Zazai),3,6,3,0,0,100.00
+122,7,Bangladesh,Rubel Hossain,not out,0,6,2,0,0,0.00
+123,7,Bangladesh,Taskin Ahmed,b Aftab Alam,1,5,3,0,0,33.33
+124,7,Afghanistan,Javed Ahmadi,c & b Mashrafe Mortaza,1,4,2,0,0,50.00
+125,7,Afghanistan,Afsar Zazai†,lbw b Rubel Hossain,1,7,5,0,0,20.00
+126,7,Afghanistan,Nawroz Mangal,c Rubel Hossain b Mahmudullah,27,88,57,1,0,47.36
+127,7,Afghanistan,Asghar Stanikzai,c Mahmudullah b Mashrafe Mortaza,1,9,7,0,0,14.28
+128,7,Afghanistan,Samiullah Shenwari,run out (Sabbir Rahman/†Mushfiqur Rahim),42,92,75,2,0,56.00
+129,7,Afghanistan,Mohammad Nabi*,c Soumya Sarkar b Mashrafe Mortaza,44,65,43,5,0,102.32
+130,7,Afghanistan,Najibullah Zadran,lbw b Shakib Al Hasan,17,49,34,1,0,50.00
+131,7,Afghanistan,Mirwais Ashraf,c Sabbir Rahman b Shakib Al Hasan,10,17,15,0,1,66.66
+132,7,Afghanistan,Aftab Alam,run out (Soumya Sarkar/†Mushfiqur Rahim),14,27,12,2,1,116.66
+133,7,Afghanistan,Hamid Hassan,c Anamul Haque b Taskin Ahmed,0,5,5,0,0,0.00
+134,7,Afghanistan,Shapoor Zadran,not out,2,7,2,0,0,100.00
+135,8,United Arab Emirates,Amjad Ali,c Ervine b Chatara,7,23,17,1,0,41.17
+136,8,United Arab Emirates,AR Berenger,c †Taylor b Mire,22,46,36,3,0,61.11
+137,8,United Arab Emirates,Krishna Chandran,c Chigumbura b Mire,34,86,63,3,0,53.96
+138,8,United Arab Emirates,Khurram Khan,c Williams b Chatara,45,77,55,6,0,81.81
+139,8,United Arab Emirates,SP Patil†,c Chakabva b Williams,32,59,38,4,0,84.21
+140,8,United Arab Emirates,Shaiman Anwar,c Ervine b Williams,67,59,50,9,1,134.00
+141,8,United Arab Emirates,Rohan Mustafa,c †Taylor b Chatara,4,10,6,0,0,66.66
+142,8,United Arab Emirates,Amjad Javed,not out,25,27,19,3,1,131.57
+143,8,United Arab Emirates,Mohammad Naveed,not out,23,23,17,1,2,135.29
+144,8,Zimbabwe,Sikandar Raza,c Krishna Chandran b Mohammad Tauqir,46,54,44,6,1,104.54
+145,8,Zimbabwe,RW Chakabva,hit wicket b Mohammad Tauqir,35,90,62,4,0,56.45
+146,8,Zimbabwe,H Masakadza,lbw b Amjad Javed,1,9,4,0,0,25.00
+147,8,Zimbabwe,BRM Taylor†,lbw b Nasir Aziz,47,47,44,5,1,106.81
+148,8,Zimbabwe,SC Williams,not out,76,110,65,7,1,116.92
+149,8,Zimbabwe,SF Mire,c †Patil b Mohammad Naveed,9,21,22,0,0,40.90
+150,8,Zimbabwe,CR Ervine,c & b Krishna Chandran,42,46,32,2,2,131.25
+151,8,Zimbabwe,E Chigumbura*,not out,14,23,15,2,0,93.33
+152,9,England,IR Bell,b Southee,8,18,17,1,0,47.05
+153,9,England,MM Ali,b Southee,20,31,15,4,0,133.33
+154,9,England,GS Ballance,c Williamson b Boult,10,46,26,0,0,38.46
+155,9,England,JE Root,c Vettori b Milne,46,123,70,3,0,65.71
+156,9,England,EJG Morgan*,c Milne b Vettori,17,51,41,1,0,41.46
+157,9,England,JWA Taylor,b Southee,0,3,2,0,0,0.00
+158,9,England,JC Buttler†,c †Ronchi b Southee,3,8,7,0,0,42.85
+159,9,England,CR Woakes,b Southee,1,3,2,0,0,50.00
+160,9,England,SCJ Broad,c Vettori b Southee,4,10,10,0,0,40.00
+161,9,England,ST Finn,c Taylor b Southee,0,10,8,0,0,0.00
+162,9,England,JM Anderson,not out,1,5,2,0,0,50.00
+163,9,New Zealand,MJ Guptill,b Woakes,22,48,22,3,0,100.00
+164,9,New Zealand,BB McCullum*,b Woakes,77,39,25,8,7,308.00
+165,9,New Zealand,KS Williamson,not out,9,23,22,1,0,40.90
+166,9,New Zealand,LRPL Taylor,not out,5,14,5,1,0,100.00
+167,10,West Indies,DR Smith,c Haris Sohail b Sohail Khan,23,34,27,4,0,85.18
+168,10,West Indies,CH Gayle,c Wahab Riaz b Mohammad Irfan,4,21,14,0,0,28.57
+169,10,West Indies,DM Bravo,retired hurt,49,115,78,3,0,62.82
+170,10,West Indies,MN Samuels,c sub (Yasir Shah) b Haris Sohail,38,69,52,4,0,73.07
+171,10,West Indies,D Ramdin†,c sub (Yasir Shah) b Haris Sohail,51,65,43,7,0,118.60
+172,10,West Indies,LMP Simmons,run out (Sohail Khan/†Umar Akmal),50,91,46,4,2,108.69
+173,10,West Indies,DJG Sammy,c Shahid Afridi b Wahab Riaz,30,37,28,3,1,107.14
+174,10,West Indies,AD Russell,not out,42,17,13,3,4,323.07
+175,10,Pakistan,Nasir Jamshed,c Russell b Taylor,0,1,2,0,0,0.00
+176,10,Pakistan,Ahmed Shehzad,c Simmons b Holder,1,16,10,0,0,10.00
+177,10,Pakistan,Younis Khan,c †Ramdin b Taylor,0,3,1,0,0,0.00
+178,10,Pakistan,Haris Sohail,c sub (JL Carter) b Taylor,0,8,6,0,0,0.00
+179,10,Pakistan,Misbah-ul-Haq*,c Gayle b Russell,7,34,21,1,0,33.33
+180,10,Pakistan,Sohaib Maqsood,c Benn b Sammy,50,92,66,4,1,75.75
+181,10,Pakistan,Umar Akmal†,c Smith b Russell,59,88,71,5,1,83.09
+182,10,Pakistan,Shahid Afridi,c Holder b Benn,28,50,26,4,0,107.69
+183,10,Pakistan,Wahab Riaz,c †Ramdin b Russell,3,17,13,0,0,23.07
+184,10,Pakistan,Sohail Khan,c †Ramdin b Benn,1,12,8,0,0,12.50
+185,10,Pakistan,Mohammad Irfan,not out,2,8,11,0,0,18.18
+186,12,Afghanistan,Javed Ahmadi,c Herath b Lakmal,24,41,23,4,0,104.34
+187,12,Afghanistan,Nawroz Mangal,c Thirimanne b Mathews,10,34,30,1,0,33.33
+188,12,Afghanistan,Asghar Stanikzai,c Mendis b Herath,54,80,57,5,1,94.73
+189,12,Afghanistan,Samiullah Shenwari,c Mathews b Perera,38,93,70,5,0,54.28
+190,12,Afghanistan,Mohammad Nabi*,b Malinga,21,34,27,2,1,77.77
+191,12,Afghanistan,Najibullah Zadran,c Perera b Lakmal,10,28,15,0,1,66.66
+192,12,Afghanistan,Afsar Zazai†,c Herath b Malinga,19,65,38,1,0,50.00
+193,12,Afghanistan,Mirwais Ashraf,c Lakmal b Malinga,28,39,32,1,2,87.50
+194,12,Afghanistan,Dawlat Zadran,b Mathews,4,5,5,1,0,80.00
+195,12,Afghanistan,Hamid Hassan,c Mendis b Mathews,0,2,1,0,0,0.00
+196,12,Afghanistan,Shapoor Zadran,not out,1,5,1,0,0,100.00
+197,12,Sri Lanka,HDRL Thirimanne,lbw b Dawlat Zadran,0,1,1,0,0,0.00
+198,12,Sri Lanka,TM Dilshan,c †Afsar Zazai b Shapoor Zadran,0,7,1,0,0,0.00
+199,12,Sri Lanka,KC Sangakkara†,b Hamid Hassan,7,28,13,1,0,53.84
+200,12,Sri Lanka,FDM Karunaratne,c Nawroz Mangal b Hamid Hassan,23,47,32,3,0,71.87
+201,12,Sri Lanka,DPMD Jayawardene,c Nawroz Mangal b Hamid Hassan,100,148,120,8,1,83.33
+202,12,Sri Lanka,AD Mathews*,run out (Mohammad Nabi),44,115,81,2,0,54.32
+203,12,Sri Lanka,BMAJ Mendis,not out,9,39,17,0,0,52.94
+204,12,Sri Lanka,NLTC Perera,not out,47,32,26,6,1,180.76
+205,13,India,RG Sharma,run out (de Villiers),0,13,6,0,0,0.00
+206,13,India,S Dhawan,c Amla b Parnell,137,199,146,16,2,93.83
+207,13,India,V Kohli,c du Plessis b Imran Tahir,46,106,60,3,0,76.66
+208,13,India,AM Rahane,lbw b Steyn,79,90,60,7,3,131.66
+209,13,India,SK Raina,c sub (RR Rossouw) b Morkel,6,6,5,1,0,120.00
+210,13,India,MS Dhoni*†,c †de Kock b Morkel,18,22,11,3,0,163.63
+211,13,India,RA Jadeja,run out (de Villiers),2,4,4,0,0,50.00
+212,13,India,R Ashwin,not out,5,14,5,0,0,100.00
+213,13,India,Mohammed Shami,not out,4,5,5,1,0,80.00
+214,13,South Africa,HM Amla,c Mohammed Shami b MM Sharma,22,50,28,2,0,78.57
+215,13,South Africa,Q de Kock†,c Kohli b Mohammed Shami,7,15,15,1,0,46.66
+216,13,South Africa,F du Plessis,c Dhawan b MM Sharma,55,98,71,5,0,77.46
+217,13,South Africa,AB de Villiers*,run out (MM Sharma/†Dhoni),30,47,38,3,0,78.94
+218,13,South Africa,DA Miller,run out (Yadav/†Dhoni),22,45,23,2,0,95.65
+219,13,South Africa,JP Duminy,c Raina b Ashwin,6,16,15,0,0,40.00
+220,13,South Africa,WD Parnell,not out,17,41,28,1,0,60.71
+221,13,South Africa,VD Philander,lbw b Ashwin,0,4,2,0,0,0.00
+222,13,South Africa,DW Steyn,c Dhawan b Mohammed Shami,1,8,7,0,0,14.28
+223,13,South Africa,M Morkel,b Ashwin,2,3,5,0,0,40.00
+224,13,South Africa,Imran Tahir,lbw b Jadeja,8,11,10,1,0,80.00
+225,14,England,MM Ali,c Coleman b Haq,128,142,107,12,5,119.62
+226,14,England,IR Bell,c Coetzer b Berrington,54,123,85,2,0,63.52
+227,14,England,GS Ballance,b Evans,10,23,18,0,0,55.55
+228,14,England,JE Root,c †Cross b Davey,1,8,3,0,0,33.33
+229,14,England,EJG Morgan*,c Mommsen b Davey,46,68,42,4,2,109.52
+230,14,England,JWA Taylor,st †Cross b Davey,17,38,26,0,0,65.38
+231,14,England,JC Buttler†,c Davey b Wardlaw,24,19,14,4,0,171.42
+232,14,England,CR Woakes,c Mommsen b Davey,1,4,2,0,0,50.00
+233,14,England,SCJ Broad,not out,0,5,3,0,0,0.00
+234,14,England,ST Finn,not out,1,3,1,0,0,100.00
+235,14,Scotland,KJ Coetzer,c Woakes b Ali,71,110,84,11,0,84.52
+236,14,Scotland,CS MacLeod,c †Buttler b Anderson,4,11,6,1,0,66.66
+237,14,Scotland,FRJ Coleman,c Morgan b Woakes,7,30,16,0,0,43.75
+238,14,Scotland,MW Machan,c †Buttler b Finn,5,7,7,1,0,71.42
+239,14,Scotland,PL Mommsen*,c Broad b Root,26,52,42,3,0,61.90
+240,14,Scotland,RD Berrington,c Morgan b Ali,8,12,13,0,0,61.53
+241,14,Scotland,MH Cross†,c Root b Finn,23,40,32,1,0,71.87
+242,14,Scotland,JH Davey,c †Buttler b Finn,9,17,15,0,0,60.00
+243,14,Scotland,RM Haq,c Ballance b Woakes,15,42,24,3,0,62.50
+244,14,Scotland,AC Evans,c †Buttler b Anderson,9,15,15,2,0,60.00
+245,14,Scotland,I Wardlaw,not out,0,2,0,0,0,-
+246,15,West Indies,DR Smith,b Panyangara,0,1,2,0,0,0.00
+247,15,West Indies,CH Gayle,c Chigumbura b Masakadza,215,212,147,10,16,146.25
+248,15,West Indies,MN Samuels,not out,133,209,156,11,3,85.25
+249,15,Zimbabwe,Sikandar Raza,c Simmons b Holder,26,36,20,5,0,130.00
+250,15,Zimbabwe,RW Chakabva,lbw b Holder,2,10,5,0,0,40.00
+251,15,Zimbabwe,H Masakadza,lbw b Taylor,5,12,14,0,0,35.71
+252,15,Zimbabwe,BRM Taylor†,c †Ramdin b Samuels,37,61,48,2,1,77.08
+253,15,Zimbabwe,SC Williams,c Smith b Holder,76,78,61,9,0,124.59
+254,15,Zimbabwe,CR Ervine,b Gayle,52,61,41,7,1,126.82
+255,15,Zimbabwe,S Matsikenyeri,lbw b Gayle,19,41,23,2,0,82.60
+256,15,Zimbabwe,E Chigumbura*,c Gayle b Taylor,21,33,20,1,1,105.00
+257,15,Zimbabwe,T Panyangara,c †Ramdin b Taylor,4,12,8,0,0,50.00
+258,15,Zimbabwe,TL Chatara,b Miller,16,25,20,1,0,80.00
+259,15,Zimbabwe,T Kamungozi,not out,6,14,9,1,0,66.66
+260,16,United Arab Emirates,Amjad Ali,c Sorensen b KJ O'Brien,45,76,71,5,0,63.38
+261,16,United Arab Emirates,AR Berenger,c Porterfield b Stirling,13,47,25,1,0,52.00
+262,16,United Arab Emirates,Krishna Chandran,c KJ O'Brien b Stirling,0,6,4,0,0,0.00
+263,16,United Arab Emirates,Khurram Khan,lbw b Dockrell,36,70,53,2,0,67.92
+264,16,United Arab Emirates,SP Patil†,c Stirling b KJ O'Brien,2,7,8,0,0,25.00
+265,16,United Arab Emirates,Shaiman Anwar,c †Wilson b Sorensen,106,126,83,10,1,127.71
+266,16,United Arab Emirates,Rohan Mustafa,c †Wilson b Cusack,2,13,9,0,0,22.22
+267,16,United Arab Emirates,Amjad Javed,c Joyce b Sorensen,42,55,35,5,0,120.00
+268,16,United Arab Emirates,Mohammad Naveed,c & b Cusack,13,19,11,2,0,118.18
+269,16,United Arab Emirates,Mohammad Tauqir*,not out,2,6,2,0,0,100.00
+270,16,United Arab Emirates,AM Guruge,not out,0,1,0,0,0,-
+271,16,Ireland,WTS Porterfield*,b Mohammad Tauqir,37,102,64,2,0,57.81
+272,16,Ireland,PR Stirling,c †Patil b Guruge,3,7,9,0,0,33.33
+273,16,Ireland,EC Joyce,c †Patil b Amjad Javed,37,77,49,3,0,75.51
+274,16,Ireland,NJ O'Brien,lbw b Mohammad Tauqir,17,22,24,1,0,70.83
+275,16,Ireland,A Balbirnie,c sub (Saqlain Haider) b Mohammad Naveed,30,55,41,1,0,73.17
+276,16,Ireland,GC Wilson†,c Amjad Javed b Mohammad Naveed,80,101,69,9,0,115.94
+277,16,Ireland,KJ O'Brien,c Mohammad Naveed b Amjad Javed,50,34,25,8,2,200.00
+278,16,Ireland,JF Mooney,c Amjad Ali b Amjad Javed,2,14,6,0,0,33.33
+279,16,Ireland,AR Cusack,not out,5,10,6,0,0,83.33
+280,16,Ireland,GH Dockrell,not out,7,8,5,1,0,140.00
+281,17,Scotland,KJ Coetzer,b Dawlat Zadran,25,52,41,5,0,60.97
+282,17,Scotland,CS MacLeod,c Najibullah Zadran b Dawlat Zadran,0,10,5,0,0,0.00
+283,17,Scotland,HJW Gardiner,lbw b Hamid Hassan,5,40,20,0,0,25.00
+284,17,Scotland,MW Machan,b Mohammad Nabi,31,46,28,4,0,110.71
+285,17,Scotland,PL Mommsen*,c †Afsar Zazai b Gulbadin Naib,23,48,36,4,0,63.88
+286,17,Scotland,RD Berrington,c †Afsar Zazai b Dawlat Zadran,25,66,46,2,0,54.34
+287,17,Scotland,MH Cross†,c †Afsar Zazai b Shapoor Zadran,15,30,26,1,0,57.69
+288,17,Scotland,JH Davey,c Hamid Hassan b Shapoor Zadran,1,12,9,0,0,11.11
+289,17,Scotland,RM Haq,c Gulbadin Naib b Shapoor Zadran,31,74,51,3,0,60.78
+290,17,Scotland,AC Evans,c Mohammad Nabi b Shapoor Zadran,28,59,37,3,0,75.67
+291,17,Scotland,I Wardlaw,not out,1,4,2,0,0,50.00
+292,17,Afghanistan,Javed Ahmadi,c Machan b Berrington,51,80,51,8,0,100.00
+293,17,Afghanistan,Nawroz Mangal,b Evans,7,31,13,0,0,53.84
+294,17,Afghanistan,Asghar Stanikzai,c †Cross b Evans,4,3,3,1,0,133.33
+295,17,Afghanistan,Samiullah Shenwari,c Davey b Haq,96,176,147,7,5,65.30
+296,17,Afghanistan,Mohammad Nabi*,lbw b Davey,1,10,3,0,0,33.33
+297,17,Afghanistan,Afsar Zazai†,lbw b Berrington,0,4,1,0,0,0.00
+298,17,Afghanistan,Najibullah Zadran,c Haq b Berrington,4,9,5,1,0,80.00
+299,17,Afghanistan,Gulbadin Naib,c Haq b Davey,0,4,1,0,0,0.00
+300,17,Afghanistan,Dawlat Zadran,c Mommsen b Berrington,9,50,25,1,0,36.00
+301,17,Afghanistan,Hamid Hassan,not out,15,75,39,1,0,38.46
+302,17,Afghanistan,Shapoor Zadran,not out,12,21,10,2,0,120.00
+303,18,Sri Lanka,HDRL Thirimanne,c Taskin Ahmed b Rubel Hossain,52,104,78,3,0,66.66
+304,18,Sri Lanka,TM Dilshan,not out,161,221,146,22,0,110.27
+305,18,Sri Lanka,KC Sangakkara†,not out,105,116,76,13,1,138.15
+306,18,Bangladesh,Tamim Iqbal,b Malinga,0,1,2,0,0,0.00
+307,18,Bangladesh,Anamul Haque,run out (Mathews),29,66,43,1,1,67.44
+308,18,Bangladesh,Soumya Sarkar,c †Sangakkara b Mathews,25,24,15,5,0,166.66
+309,18,Bangladesh,Mominul Haque,c Jayawardene b Lakmal,1,5,3,0,0,33.33
+310,18,Bangladesh,Mahmudullah,c Herath b Perera,28,54,46,3,0,60.86
+311,18,Bangladesh,Shakib Al Hasan,c Malinga b Dilshan,46,57,59,4,1,77.96
+312,18,Bangladesh,Mushfiqur Rahim†,b Lakmal,36,75,39,2,1,92.30
+313,18,Bangladesh,Sabbir Rahman,c †Sangakkara b Malinga,53,63,62,7,0,85.48
+314,18,Bangladesh,Mashrafe Mortaza*,st †Sangakkara b Dilshan,7,14,7,1,0,100.00
+315,18,Bangladesh,Rubel Hossain,not out,0,13,5,0,0,0.00
+316,18,Bangladesh,Taskin Ahmed,lbw b Malinga,0,1,1,0,0,0.00
+317,19,South Africa,Q de Kock†,c Russell b Holder,12,24,19,3,0,63.15
+318,19,South Africa,HM Amla,lbw b Gayle,65,122,88,1,1,73.86
+319,19,South Africa,F du Plessis,c †Ramdin b Gayle,62,93,70,3,0,88.57
+320,19,South Africa,RR Rossouw,c †Ramdin b Russell,61,64,39,6,1,156.41
+321,19,South Africa,AB de Villiers*,not out,162,103,66,17,8,245.45
+322,19,South Africa,DA Miller,c Taylor b Russell,20,21,16,0,0,125.00
+323,19,South Africa,F Behardien,not out,10,18,5,0,1,200.00
+324,19,West Indies,DR Smith,c Miller b Imran Tahir,31,51,34,4,1,91.17
+325,19,West Indies,CH Gayle,b Abbott,3,6,4,0,0,75.00
+326,19,West Indies,MN Samuels,c †de Kock b Abbott,0,9,9,0,0,0.00
+327,19,West Indies,JL Carter,c de Villiers b Morkel,10,31,20,1,0,50.00
+328,19,West Indies,D Ramdin†,b Imran Tahir,22,61,47,2,0,46.80
+329,19,West Indies,LMP Simmons,lbw b Imran Tahir,0,2,2,0,0,0.00
+330,19,West Indies,DJG Sammy,st †de Kock b Imran Tahir,5,21,11,0,0,45.45
+331,19,West Indies,AD Russell,c Abbott b Imran Tahir,0,2,3,0,0,0.00
+332,19,West Indies,JO Holder*,c Amla b Steyn,56,56,48,3,4,116.66
+333,19,West Indies,JE Taylor,not out,15,30,18,2,0,83.33
+334,19,West Indies,SJ Benn,c Amla b Morkel,1,2,3,0,0,33.33
+335,20,Australia,AJ Finch,b Southee,14,10,7,1,1,200.00
+336,20,Australia,DA Warner,lbw b Southee,34,58,42,2,1,80.95
+337,20,Australia,SR Watson,c Southee b Vettori,23,44,30,2,0,76.66
+338,20,Australia,MJ Clarke*,c Williamson b Boult,12,37,18,1,0,66.66
+339,20,Australia,SPD Smith,c †Ronchi b Vettori,4,17,11,0,0,36.36
+340,20,Australia,GJ Maxwell,b Boult,1,4,3,0,0,33.33
+341,20,Australia,MR Marsh,b Boult,0,3,2,0,0,0.00
+342,20,Australia,BJ Haddin†,c sub (TWM Latham) b Anderson,43,70,41,4,2,104.87
+343,20,Australia,MG Johnson,c Williamson b Boult,1,6,7,0,0,14.28
+344,20,Australia,MA Starc,b Boult,0,2,3,0,0,0.00
+345,20,Australia,PJ Cummins,not out,7,51,30,1,0,23.33
+346,20,New Zealand,MJ Guptill,c Cummins b Starc,11,14,1,1,78.57,
+347,20,New Zealand,BB McCullum*,c Starc b Cummins,50,24,7,3,208.33,
+348,20,New Zealand,KS Williamson,not out,45,42,5,1,107.14,
+349,20,New Zealand,LRPL Taylor,b Starc,1,2,0,0,50.00,
+350,20,New Zealand,GD Elliott,b Starc,0,1,0,0,0.00,
+351,20,New Zealand,CJ Anderson,c Cummins b Maxwell,26,42,2,1,61.90,
+352,20,New Zealand,L Ronchi†,c †Haddin b Starc,6,7,0,1,85.71,
+353,20,New Zealand,DL Vettori,c Warner b Cummins,2,3,0,0,66.66,
+354,20,New Zealand,AF Milne,b Starc,0,2,0,0,0.00,
+355,20,New Zealand,TG Southee,b Starc,0,1,0,0,0.00,
+356,20,New Zealand,TA Boult,not out,0,2,0,0,0.00,
+357,21,United Arab Emirates,Amjad Ali,c †Dhoni b Kumar,4,20,12,0,0,33.33
+358,21,United Arab Emirates,AR Berenger,c †Dhoni b Yadav,4,7,9,1,0,44.44
+359,21,United Arab Emirates,Krishna Chandran,c Raina b Ashwin,4,36,27,0,0,14.81
+360,21,United Arab Emirates,Khurram Khan,c Raina b Ashwin,14,51,28,1,0,50.00
+361,21,United Arab Emirates,SP Patil†,c Dhawan b Ashwin,7,17,19,1,0,36.84
+362,21,United Arab Emirates,Shaiman Anwar,b Yadav,35,63,49,6,0,71.42
+363,21,United Arab Emirates,Rohan Mustafa,lbw b MM Sharma,2,13,12,0,0,16.66
+364,21,United Arab Emirates,Amjad Javed,c Raina b Jadeja,2,7,5,0,0,40.00
+365,21,United Arab Emirates,Mohammad Naveed,b Ashwin,6,4,7,0,1,85.71
+366,21,United Arab Emirates,Mohammad Tauqir*,b Jadeja,1,4,5,0,0,20.00
+367,21,United Arab Emirates,AM Guruge,not out,10,23,16,1,0,62.50
+368,21,India,RG Sharma,not out,57,77,55,10,1,103.63
+369,21,India,S Dhawan,c Rohan Mustafa b Mohammad Naveed,14,27,17,3,0,82.35
+370,21,India,V Kohli,not out,33,49,41,5,0,80.48
+371,22,England,MM Ali,c Lakmal b Mathews,15,43,26,3,0,57.69
+372,22,England,IR Bell,b Lakmal,49,87,54,7,0,90.74
+373,22,England,GS Ballance,c & b Dilshan,6,10,14,1,0,42.85
+374,22,England,JE Root,lbw b Herath,121,151,108,14,2,112.03
+375,22,England,EJG Morgan*,c Dilshan b Perera,27,54,47,2,1,57.44
+376,22,England,JWA Taylor,c Dilshan b Malinga,25,54,26,1,1,96.15
+377,22,England,JC Buttler†,not out,39,28,19,6,1,205.26
+378,22,England,CR Woakes,not out,9,19,8,1,0,112.50
+379,22,Sri Lanka,HDRL Thirimanne,not out,139,197,143,13,2,97.20
+380,22,Sri Lanka,TM Dilshan,c Morgan b Ali,44,81,55,4,2,80.00
+381,22,Sri Lanka,KC Sangakkara†,not out,117,116,86,11,2,136.04
+382,23,Pakistan,Nasir Jamshed,c Sikandar Raza b Chatara,1,8,9,0,0,11.11
+383,23,Pakistan,Ahmed Shehzad,c †Taylor b Chatara,0,17,11,0,0,0.00
+384,23,Pakistan,Haris Sohail,c Williams b Sikandar Raza,27,85,44,2,0,61.36
+385,23,Pakistan,Misbah-ul-Haq*,c Williams b Chatara,73,191,121,3,0,60.33
+386,23,Pakistan,Umar Akmal†,b Williams,33,53,42,3,0,78.57
+387,23,Pakistan,Shahid Afridi,b Williams,0,2,2,0,0,0.00
+388,23,Pakistan,Sohaib Maqsood,c & b Mupariwa,21,19,17,2,0,123.52
+389,23,Pakistan,Wahab Riaz,not out,54,56,46,6,1,117.39
+390,23,Pakistan,Sohail Khan,not out,6,18,8,0,0,75.00
+391,23,Zimbabwe,CJ Chibhabha,c Haris Sohail b Mohammad Irfan,9,19,18,2,0,50.00
+392,23,Zimbabwe,Sikandar Raza,c Haris Sohail b Mohammad Irfan,8,29,15,0,0,53.33
+393,23,Zimbabwe,H Masakadza,c Misbah-ul-Haq b Mohammad Irfan,29,71,54,4,0,53.70
+394,23,Zimbabwe,BRM Taylor†,c †Umar Akmal b Wahab Riaz,50,95,72,6,0,69.44
+395,23,Zimbabwe,SC Williams,c Ahmed Shehzad b Rahat Ali,33,53,32,2,0,103.12
+396,23,Zimbabwe,CR Ervine,c †Umar Akmal b Wahab Riaz,14,45,29,1,0,48.27
+397,23,Zimbabwe,SF Mire,c †Umar Akmal b Mohammad Irfan,8,14,14,0,0,57.14
+398,23,Zimbabwe,E Chigumbura*,c †Umar Akmal b Wahab Riaz,35,60,35,4,0,100.00
+399,23,Zimbabwe,T Mupariwa,c †Umar Akmal b Wahab Riaz,0,2,2,0,0,0.00
+400,23,Zimbabwe,T Panyangara,run out (†Umar Akmal/Wahab Riaz),10,43,28,0,0,35.71
+401,23,Zimbabwe,TL Chatara,not out,0,1,0,0,0,-
+402,24,South Africa,HM Amla,c Joyce b McBrine,159,168,128,16,4,124.21
+403,24,South Africa,Q de Kock†,c †Wilson b Mooney,1,11,4,0,0,25.00
+404,24,South Africa,F du Plessis,b KJ O'Brien,109,139,109,10,1,100.00
+405,24,South Africa,AB de Villiers*,c NJ O'Brien b McBrine,24,16,9,1,2,266.66
+406,24,South Africa,DA Miller,not out,46,43,23,4,2,200.00
+407,24,South Africa,RR Rossouw,not out,61,40,30,6,3,203.33
+408,24,Ireland,WTS Porterfield*,c du Plessis b Abbott,12,17,17,2,0,70.58
+409,24,Ireland,PR Stirling,c †de Kock b Steyn,9,11,6,2,0,150.00
+410,24,Ireland,EC Joyce,c Amla b Steyn,0,7,4,0,0,0.00
+411,24,Ireland,NJ O'Brien,c Amla b Abbott,14,21,9,2,0,155.55
+412,24,Ireland,A Balbirnie,c Rossouw b Morkel,58,81,71,7,0,81.69
+413,24,Ireland,GC Wilson†,lbw b Abbott,0,6,3,0,0,0.00
+414,24,Ireland,KJ O'Brien,c Rossouw b Abbott,48,90,65,3,1,73.84
+415,24,Ireland,JF Mooney,b de Villiers,8,16,15,0,0,53.33
+416,24,Ireland,GH Dockrell,b Morkel,25,61,57,1,1,43.85
+417,24,Ireland,MC Sorensen,c †de Kock b Morkel,22,31,19,3,1,115.78
+418,24,Ireland,AR McBrine,not out,2,9,4,0,0,50.00
+419,25,Pakistan,Nasir Jamshed,c Khurram Khan b Guruge,4,15,12,0,0,33.33
+420,25,Pakistan,Ahmed Shehzad,run out (Shaiman Anwar/†Patil),93,148,105,8,1,88.57
+421,25,Pakistan,Haris Sohail,c Shaiman Anwar b Mohammad Naveed,70,124,83,5,1,84.33
+422,25,Pakistan,Sohaib Maqsood,c Rohan Mustafa b Guruge,45,48,31,4,2,145.16
+423,25,Pakistan,Misbah-ul-Haq*,c Rohan Mustafa b Guruge,65,68,49,4,2,132.65
+424,25,Pakistan,Umar Akmal†,c Amjad Ali b Guruge,19,27,13,1,1,146.15
+425,25,Pakistan,Shahid Afridi,not out,21,8,7,1,2,300.00
+426,25,Pakistan,Wahab Riaz,not out,6,6,1,0,1,600.00
+427,25,United Arab Emirates,Amjad Ali,b Rahat Ali,14,29,30,2,0,46.66
+428,25,United Arab Emirates,AR Berenger,c †Umar Akmal b Sohail Khan,2,34,13,0,0,15.38
+429,25,United Arab Emirates,Krishna Chandran,c †Umar Akmal b Sohail Khan,0,18,11,0,0,0.00
+430,25,United Arab Emirates,Khurram Khan,c Wahab Riaz b Sohaib Maqsood,43,85,54,3,1,79.62
+431,25,United Arab Emirates,Shaiman Anwar,c Nasir Jamshed b Shahid Afridi,62,104,88,4,2,70.45
+432,25,United Arab Emirates,SP Patil†,b Wahab Riaz,36,84,68,2,0,52.94
+433,25,United Arab Emirates,Rohan Mustafa,c Ahmed Shehzad b Shahid Afridi,0,2,2,0,0,0.00
+434,25,United Arab Emirates,Amjad Javed,c Sohail Khan b Wahab Riaz,40,48,33,5,2,121.21
+435,25,United Arab Emirates,Mohammad Naveed,not out,0,4,0,0,0,-
+436,25,United Arab Emirates,Mohammad Tauqir*,not out,0,1,1,0,0,0.00
+437,26,Australia,DA Warner,c Mohammad Nabi b Shapoor Zadran,178,164,133,19,5,133.83
+438,26,Australia,AJ Finch,c Nawroz Mangal b Dawlat Zadran,4,14,9,0,0,44.44
+439,26,Australia,SPD Smith,c Najibullah Zadran b Shapoor Zadran,95,173,98,8,1,96.93
+440,26,Australia,GJ Maxwell,c Mohammad Nabi b Dawlat Zadran,88,45,39,6,7,225.64
+441,26,Australia,JP Faulkner,b Hamid Hassan,7,15,6,1,0,116.66
+442,26,Australia,MR Marsh,c Najibullah Zadran b Nawroz Mangal,8,17,9,0,0,88.88
+443,26,Australia,BJ Haddin†,not out,20,10,9,2,1,222.22
+444,26,Afghanistan,Javed Ahmadi,c Clarke b Hazlewood,13,34,24,1,0,54.16
+445,26,Afghanistan,Usman Ghani,c Faulkner b Johnson,12,28,19,0,0,63.15
+446,26,Afghanistan,Nawroz Mangal,c Finch b Johnson,33,54,35,2,2,94.28
+447,26,Afghanistan,Asghar Stanikzai,c Smith b Johnson,4,12,10,0,0,40.00
+448,26,Afghanistan,Samiullah Shenwari,c Johnson b Clarke,17,33,31,2,0,54.83
+449,26,Afghanistan,Mohammad Nabi*,c Clarke b Maxwell,2,20,10,0,0,20.00
+450,26,Afghanistan,Najibullah Zadran,b Starc,24,42,31,1,1,77.41
+451,26,Afghanistan,Afsar Zazai†,c †Haddin b Hazlewood,10,47,40,0,0,25.00
+452,26,Afghanistan,Dawlat Zadran,b Starc,0,3,4,0,0,0.00
+453,26,Afghanistan,Hamid Hassan,c Warner b Johnson,7,27,18,0,0,38.88
+454,26,Afghanistan,Shapoor Zadran,not out,0,5,4,0,0,0.00
+455,27,Scotland,KJ Coetzer,c Soumya Sarkar b Nasir Hossain,156,198,134,17,4,116.41
+456,27,Scotland,CS MacLeod,c Mahmudullah b Mashrafe Mortaza,11,9,11,2,0,100.00
+457,27,Scotland,HJW Gardiner,c Soumya Sarkar b Taskin Ahmed,19,29,32,3,0,59.37
+458,27,Scotland,MW Machan,c & b Sabbir Rahman,35,65,50,2,1,70.00
+459,27,Scotland,PL Mommsen*,c Soumya Sarkar b Nasir Hossain,39,84,38,2,1,102.63
+460,27,Scotland,RD Berrington,c †Mushfiqur Rahim b Taskin Ahmed,26,27,16,1,2,162.50
+461,27,Scotland,MH Cross†,c Sabbir Rahman b Taskin Ahmed,20,23,14,1,1,142.85
+462,27,Scotland,JH Davey,not out,4,8,3,0,0,133.33
+463,27,Scotland,RM Haq,c Soumya Sarkar b Shakib Al Hasan,1,2,3,0,0,33.33
+464,27,Scotland,AC Evans,not out,0,1,0,0,0,-
+465,27,Bangladesh,Tamim Iqbal,lbw b Davey,95,132,100,9,1,95.00
+466,27,Bangladesh,Soumya Sarkar,c †Cross b Davey,2,7,5,0,0,40.00
+467,27,Bangladesh,Mahmudullah,b Wardlaw,62,87,62,6,1,100.00
+468,27,Bangladesh,Mushfiqur Rahim†,c MacLeod b Evans,60,68,42,6,2,142.85
+469,27,Bangladesh,Shakib Al Hasan,not out,52,77,41,5,1,126.82
+470,27,Bangladesh,Sabbir Rahman,not out,42,46,40,4,2,105.00
+471,28,West Indies,DR Smith,c †Dhoni b Mohammed Shami,6,19,20,1,0,30.00
+472,28,West Indies,CH Gayle,c MM Sharma b Mohammed Shami,21,44,27,2,1,77.77
+473,28,West Indies,MN Samuels,run out (MM Sharma/Kohli),2,14,7,0,0,28.57
+474,28,West Indies,JL Carter,c Mohammed Shami b Ashwin,21,67,43,3,0,48.83
+475,28,West Indies,D Ramdin†,b Yadav,0,2,1,0,0,0.00
+476,28,West Indies,LMP Simmons,c Yadav b MM Sharma,9,39,22,0,0,40.90
+477,28,West Indies,DJG Sammy,c †Dhoni b Mohammed Shami,26,69,55,2,0,47.27
+478,28,West Indies,AD Russell,c Kohli b Jadeja,8,13,8,0,1,100.00
+479,28,West Indies,JO Holder*,c Kohli b Jadeja,57,79,64,4,3,89.06
+480,28,West Indies,JE Taylor,c & b Yadav,11,30,18,1,0,61.11
+481,28,West Indies,KAJ Roach,not out,0,6,1,0,0,0.00
+482,28,India,RG Sharma,c †Ramdin b Taylor,7,30,18,1,0,38.88
+483,28,India,S Dhawan,c Sammy b Taylor,9,17,14,1,0,64.28
+484,28,India,V Kohli,c Samuels b Russell,33,51,36,5,0,91.66
+485,28,India,AM Rahane,c †Ramdin b Roach,14,56,34,2,0,41.17
+486,28,India,SK Raina,c †Ramdin b Smith,22,42,25,2,0,88.00
+487,28,India,MS Dhoni*†,not out,45,96,56,3,1,80.35
+488,28,India,RA Jadeja,c Samuels b Russell,13,31,23,2,0,56.52
+489,28,India,R Ashwin,not out,16,39,32,0,0,50.00
+490,29,Pakistan,Sarfraz Ahmed†,run out (Miller/†de Kock),49,62,49,5,3,100.00
+491,29,Pakistan,Ahmed Shehzad,c Steyn b Abbott,18,34,30,4,0,60.00
+492,29,Pakistan,Younis Khan,c Rossouw b de Villiers,37,68,44,4,0,84.09
+493,29,Pakistan,Misbah-ul-Haq*,c Morkel b Steyn,56,119,86,4,0,65.11
+494,29,Pakistan,Sohaib Maqsood,c Rossouw b Abbott,8,20,16,1,0,50.00
+495,29,Pakistan,Umar Akmal,c de Villiers b Morkel,13,22,20,2,0,65.00
+496,29,Pakistan,Shahid Afridi,c Duminy b Steyn,22,21,15,1,2,146.66
+497,29,Pakistan,Wahab Riaz,lbw b Imran Tahir,0,5,1,0,0,0.00
+498,29,Pakistan,Sohail Khan,c Duminy b Morkel,3,21,11,0,0,27.27
+499,29,Pakistan,Rahat Ali,c Imran Tahir b Steyn,1,8,6,0,0,16.66
+500,29,Pakistan,Mohammad Irfan,not out,1,5,3,0,0,33.33
+501,29,South Africa,Q de Kock†,c †Sarfraz Ahmed b Mohammad Irfan,0,1,2,0,0,0.00
+502,29,South Africa,HM Amla,c †Sarfraz Ahmed b Wahab Riaz,38,51,27,9,0,140.74
+503,29,South Africa,F du Plessis,c †Sarfraz Ahmed b Rahat Ali,27,44,29,3,1,93.10
+504,29,South Africa,RR Rossouw,c Sohail Khan b Wahab Riaz,6,16,9,1,0,66.66
+505,29,South Africa,AB de Villiers*,c †Sarfraz Ahmed b Sohail Khan,77,111,58,7,5,132.75
+506,29,South Africa,DA Miller,lbw b Rahat Ali,0,17,13,0,0,0.00
+507,29,South Africa,JP Duminy,c Wahab Riaz b Mohammad Irfan,12,19,13,2,0,92.30
+508,29,South Africa,DW Steyn,c †Sarfraz Ahmed b Mohammad Irfan,16,21,17,3,0,94.11
+509,29,South Africa,KJ Abbott,c Younis Khan b Rahat Ali,12,26,19,2,0,63.15
+510,29,South Africa,M Morkel,not out,6,26,8,1,0,75.00
+511,29,South Africa,Imran Tahir,c †Sarfraz Ahmed b Wahab Riaz,0,7,6,0,0,0.00
+512,30,Ireland,WTS Porterfield*,c Masakadza b Williams,29,81,61,1,0,47.54
+513,30,Ireland,PR Stirling,c Williams b Panyangara,10,12,11,2,0,90.90
+514,30,Ireland,EC Joyce,c Ervine b Chatara,112,142,103,9,3,108.73
+515,30,Ireland,A Balbirnie,run out (Chakabva/†Taylor),97,127,79,7,4,122.78
+516,30,Ireland,KJ O'Brien,c Chakabva b Chatara,24,26,22,4,0,109.09
+517,30,Ireland,GC Wilson†,c Chakabva b Williams,25,14,13,3,1,192.30
+518,30,Ireland,JF Mooney,b Williams,10,2,4,2,0,250.00
+519,30,Ireland,NJ O'Brien,c Panyangara b Chatara,2,4,4,0,0,50.00
+520,30,Ireland,GH Dockrell,not out,5,8,3,0,0,166.66
+521,30,Ireland,AR Cusack,not out,2,4,3,0,0,66.66
+522,30,Zimbabwe,CJ Chibhabha,c Porterfield b Cusack,18,36,32,3,0,56.25
+523,30,Zimbabwe,Sikandar Raza,c Stirling b Mooney,12,32,19,2,0,63.15
+524,30,Zimbabwe,SF Mire,c Cusack b Dockrell,11,37,21,1,0,52.38
+525,30,Zimbabwe,H Masakadza,c †Wilson b KJ O'Brien,5,8,7,0,0,71.42
+526,30,Zimbabwe,BRM Taylor*†,c KJ O'Brien b Cusack,121,110,91,11,4,132.96
+527,30,Zimbabwe,SC Williams,c Mooney b KJ O'Brien,96,131,83,7,2,115.66
+528,30,Zimbabwe,CR Ervine,c NJ O'Brien b McBrine,11,25,16,1,0,68.75
+529,30,Zimbabwe,RW Chakabva,b Cusack,17,36,16,1,0,106.25
+530,30,Zimbabwe,T Panyangara,c Porterfield b Mooney,5,4,5,0,0,100.00
+531,30,Zimbabwe,T Mupariwa,c Porterfield b Cusack,18,11,7,2,1,257.14
+532,30,Zimbabwe,TL Chatara,not out,1,2,1,0,0,100.00
+533,31,Afghanistan,Javed Ahmadi,lbw b Boult,1,6,7,0,0,14.28
+534,31,Afghanistan,Usman Ghani,b Vettori,0,12,3,0,0,0.00
+535,31,Afghanistan,Nawroz Mangal,b Vettori,27,58,46,3,0,58.69
+536,31,Afghanistan,Asghar Stanikzai,c Guptill b Boult,9,24,18,2,0,50.00
+537,31,Afghanistan,Samiullah Shenwari,c Taylor b Anderson,54,172,110,5,1,49.09
+538,31,Afghanistan,Mohammad Nabi*,c Taylor b Vettori,6,20,15,0,0,40.00
+539,31,Afghanistan,Afsar Zazai†,lbw b Vettori,0,1,1,0,0,0.00
+540,31,Afghanistan,Najibullah Zadran,c Vettori b Milne,56,86,56,8,2,100.00
+541,31,Afghanistan,Dawlat Zadran,c †Ronchi b Boult,1,14,5,0,0,20.00
+542,31,Afghanistan,Hamid Hassan,c Milne b Anderson,16,30,21,4,0,76.19
+543,31,Afghanistan,Shapoor Zadran,not out,2,10,4,0,0,50.00
+544,31,New Zealand,MJ Guptill,run out (Nawroz Mangal/Samiullah Shenwari),57,123,76,7,0,75.00
+545,31,New Zealand,BB McCullum*,b Mohammad Nabi,42,31,19,6,1,221.05
+546,31,New Zealand,KS Williamson,c Samiullah Shenwari b Shapoor Zadran,33,58,45,4,0,73.33
+547,31,New Zealand,LRPL Taylor,not out,24,76,41,2,0,58.53
+548,31,New Zealand,GD Elliott,run out (Mohammad Nabi),19,32,28,1,0,67.85
+549,31,New Zealand,CJ Anderson,not out,7,10,8,1,0,87.50
+550,32,Australia,AJ Finch,st †Sangakkara b Prasanna,24,38,24,3,0,100.00
+551,32,Australia,DA Warner,c Prasanna b Malinga,9,16,12,1,0,75.00
+552,32,Australia,SPD Smith,c Perera b Dilshan,72,107,88,7,1,81.81
+553,32,Australia,MJ Clarke*,b Malinga,68,82,68,6,0,100.00
+554,32,Australia,GJ Maxwell,c Malinga b Perera,102,73,53,10,4,192.45
+555,32,Australia,SR Watson,c Chandimal b Perera,67,86,41,7,2,163.41
+556,32,Australia,JP Faulkner,run out (Mathews/Perera),0,1,1,0,0,0.00
+557,32,Australia,BJ Haddin†,c Perera b Mathews,25,16,9,4,1,277.77
+558,32,Australia,MG Johnson,not out,3,6,3,0,0,100.00
+559,32,Australia,MA Starc,run out (Perera/Mathews),0,1,0,0,0,-
+560,32,Australia,XJ Doherty,not out,0,2,1,0,0,0.00
+561,32,Sri Lanka,HDRL Thirimanne,c †Haddin b Johnson,1,8,5,0,0,20.00
+562,32,Sri Lanka,TM Dilshan,lbw b Faulkner,62,91,60,8,0,103.33
+563,32,Sri Lanka,KC Sangakkara†,c Finch b Faulkner,104,140,107,11,0,97.19
+564,32,Sri Lanka,DPMD Jayawardene,run out (Clarke),19,39,22,1,0,86.36
+565,32,Sri Lanka,AD Mathews*,c †Haddin b Watson,35,57,31,2,1,112.90
+566,32,Sri Lanka,LD Chandimal,retired hurt,52,38,24,8,1,216.66
+567,32,Sri Lanka,NLTC Perera,c Doherty b Johnson,8,8,3,2,0,266.66
+568,32,Sri Lanka,WU Tharanga,c Warner b Faulkner,4,20,5,0,0,80.00
+569,32,Sri Lanka,S Prasanna,b Starc,9,11,11,1,0,81.81
+570,32,Sri Lanka,SMSM Senanayake,c Doherty b Starc,7,8,8,1,0,87.50
+571,32,Sri Lanka,SL Malinga,not out,0,4,2,0,0,0.00
+572,33,Bangladesh,Tamim Iqbal,c Root b Anderson,2,10,7,0,0,28.57
+573,33,Bangladesh,Imrul Kayes,c Jordan b Anderson,2,2,2,0,0,100.00
+574,33,Bangladesh,Soumya Sarkar,c †Buttler b Jordan,40,83,52,5,1,76.92
+575,33,Bangladesh,Mahmudullah,run out (Woakes),103,184,138,7,2,74.63
+576,33,Bangladesh,Shakib Al Hasan,c Root b Ali,2,5,6,0,0,33.33
+577,33,Bangladesh,Mushfiqur Rahim†,c Jordan b Broad,89,113,77,8,1,115.58
+578,33,Bangladesh,Sabbir Rahman,c Morgan b Jordan,14,18,12,0,1,116.66
+579,33,Bangladesh,Mashrafe Mortaza*,not out,6,11,4,1,0,150.00
+580,33,Bangladesh,Arafat Sunny,not out,3,3,3,0,0,100.00
+581,33,England,MM Ali,run out (Soumya Sarkar/†Mushfiqur Rahim),19,35,21,3,0,90.47
+582,33,England,IR Bell,c †Mushfiqur Rahim b Rubel Hossain,63,113,82,7,0,76.82
+583,33,England,AD Hales,c †Mushfiqur Rahim b Mashrafe Mortaza,27,46,34,4,0,79.41
+584,33,England,JE Root,c †Mushfiqur Rahim b Mashrafe Mortaza,29,79,47,2,0,61.70
+585,33,England,EJG Morgan*,c Shakib Al Hasan b Rubel Hossain,0,3,3,0,0,0.00
+586,33,England,JWA Taylor,c Imrul Kayes b Taskin Ahmed,1,16,4,0,0,25.00
+587,33,England,JC Buttler†,c †Mushfiqur Rahim b Taskin Ahmed,65,75,52,6,1,125.00
+588,33,England,CR Woakes,not out,42,59,40,3,0,105.00
+589,33,England,CJ Jordan,run out (Shakib Al Hasan),0,4,1,0,0,0.00
+590,33,England,SCJ Broad,b Rubel Hossain,9,10,6,0,1,150.00
+591,33,England,JM Anderson,b Rubel Hossain,0,1,2,0,0,0.00
+592,34,Ireland,WTS Porterfield*,c Yadav b MM Sharma,67,106,93,5,1,72.04
+593,34,Ireland,PR Stirling,c Rahane b Ashwin,42,60,41,4,2,102.43
+594,34,Ireland,EC Joyce,b Raina,2,7,9,0,0,22.22
+595,34,Ireland,NJ O'Brien,c Yadav b Mohammed Shami,75,88,75,7,3,100.00
+596,34,Ireland,A Balbirnie,c Mohammed Shami b Ashwin,24,28,24,3,0,100.00
+597,34,Ireland,KJ O'Brien,c †Dhoni b Mohammed Shami,1,6,2,0,0,50.00
+598,34,Ireland,GC Wilson†,c Rahane b Jadeja,6,9,7,1,0,85.71
+599,34,Ireland,SR Thompson,run out (Kohli),2,10,2,0,0,100.00
+600,34,Ireland,JF Mooney,not out,12,36,16,1,0,75.00
+601,34,Ireland,GH Dockrell,c †Dhoni b Yadav,6,14,12,0,1,50.00
+602,34,Ireland,AR Cusack,c Yadav b Mohammed Shami,11,18,13,1,0,84.61
+603,34,India,RG Sharma,b Thompson,64,99,66,3,3,96.96
+604,34,India,S Dhawan,c Porterfield b Thompson,100,119,85,11,5,117.64
+605,34,India,V Kohli,not out,44,64,42,4,1,104.76
+606,34,India,AM Rahane,not out,33,44,28,6,0,117.85
+607,35,Sri Lanka,HDRL Thirimanne,c Mommsen b Evans,4,20,21,0,0,19.04
+608,35,Sri Lanka,TM Dilshan,c MacLeod b Davey,104,144,99,10,1,105.05
+609,35,Sri Lanka,KC Sangakkara†,c †Cross b Davey,124,139,95,13,4,130.52
+610,35,Sri Lanka,DPMD Jayawardene,c MacLeod b Davey,2,13,6,0,0,33.33
+611,35,Sri Lanka,AD Mathews*,c Coleman b Machan,51,32,21,1,6,242.85
+612,35,Sri Lanka,MDKJ Perera,c MacLeod b Taylor,24,17,13,2,2,184.61
+613,35,Sri Lanka,NLTC Perera,c Coleman b Berrington,7,16,11,0,0,63.63
+614,35,Sri Lanka,S Prasanna,c Coleman b Evans,3,7,5,0,0,60.00
+615,35,Sri Lanka,KMDN Kulasekara,not out,18,26,17,1,1,105.88
+616,35,Sri Lanka,SL Malinga,c Leask b Berrington,1,5,3,0,0,33.33
+617,35,Sri Lanka,PVD Chameera,not out,12,15,9,1,0,133.33
+618,35,Scotland,KJ Coetzer,c & b Malinga,0,2,2,0,0,0.00
+619,35,Scotland,CS MacLeod,b Kulasekara,11,33,21,0,0,52.38
+620,35,Scotland,MW Machan,lbw b Dilshan,19,50,31,1,0,61.29
+621,35,Scotland,PL Mommsen*,c Thirimanne b NLTC Perera,60,93,75,7,0,80.00
+622,35,Scotland,FRJ Coleman,c NLTC Perera b Kulasekara,70,93,74,7,0,94.59
+623,35,Scotland,RD Berrington,c Kulasekara b Chameera,29,51,22,2,2,131.81
+624,35,Scotland,MA Leask,c †Sangakkara b Kulasekara,2,7,7,0,0,28.57
+625,35,Scotland,MH Cross†,c †Sangakkara b Chameera,7,8,10,0,0,70.00
+626,35,Scotland,RML Taylor,c NLTC Perera b Malinga,3,7,6,0,0,50.00
+627,35,Scotland,JH Davey,c Thirimanne b Chameera,4,12,7,0,0,57.14
+628,35,Scotland,AC Evans,not out,1,9,5,0,0,20.00
+629,36,South Africa,HM Amla,c Amjad Ali b Mohammad Naveed,12,15,16,3,0,75.00
+630,36,South Africa,Q de Kock†,c †Saqlain Haider b Amjad Javed,26,73,45,2,0,57.77
+631,36,South Africa,RR Rossouw,c & b Mohammad Tauqir,43,69,49,8,0,87.75
+632,36,South Africa,AB de Villiers*,c Amjad Javed b Kamran Shazad,99,115,82,6,4,120.73
+633,36,South Africa,DA Miller,b Mohammad Naveed,49,75,48,2,0,102.08
+634,36,South Africa,JP Duminy,lbw b Mohammad Naveed,23,50,28,1,0,82.14
+635,36,South Africa,F Behardien,not out,64,36,31,5,3,206.45
+636,36,South Africa,VD Philander,not out,10,13,6,1,0,166.66
+637,36,United Arab Emirates,Amjad Ali,c Behardien b Duminy,21,51,36,3,0,58.33
+638,36,United Arab Emirates,AR Berenger,c Rossouw b Morkel,5,30,21,1,0,23.80
+639,36,United Arab Emirates,Khurram Khan,c †de Kock b Morkel,12,24,17,2,0,70.58
+640,36,United Arab Emirates,Shaiman Anwar,c Rossouw b Imran Tahir,39,68,64,5,0,60.93
+641,36,United Arab Emirates,SP Patil†,not out,57,138,100,5,0,57.00
+642,36,United Arab Emirates,Saqlain Haider,c Rossouw b de Villiers,7,8,12,1,0,58.33
+643,36,United Arab Emirates,Amjad Javed,c sub (WD Parnell) b de Villiers,5,6,4,1,0,125.00
+644,36,United Arab Emirates,Mohammad Naveed,c de Villiers b Philander,17,23,15,2,1,113.33
+645,36,United Arab Emirates,Mohammad Tauqir*,b Steyn,3,26,16,0,0,18.75
+646,36,United Arab Emirates,Kamran Shazad,c Steyn b Philander,0,6,3,0,0,0.00
+647,36,United Arab Emirates,Fahad Alhashmi,absent hurt,-,,,,,
+648,37,Bangladesh,Tamim Iqbal,c Anderson b Boult,13,41,27,2,0,48.14
+649,37,Bangladesh,Imrul Kayes,b Boult,2,23,19,0,0,10.52
+650,37,Bangladesh,Soumya Sarkar,c Anderson b Vettori,51,94,58,7,0,87.93
+651,37,Bangladesh,Mahmudullah,not out,128,175,123,12,3,104.06
+652,37,Bangladesh,Shakib Al Hasan*,c †Ronchi b Anderson,23,34,18,3,0,127.77
+653,37,Bangladesh,Mushfiqur Rahim†,c †Ronchi b Anderson,15,16,25,2,0,60.00
+654,37,Bangladesh,Sabbir Rahman,c McCullum b Elliott,40,37,23,5,2,173.91
+655,37,Bangladesh,Nasir Hossain,c Taylor b Elliott,11,12,7,0,1,157.14
+656,37,Bangladesh,Rubel Hossain,not out,0,1,0,0,0,-
+657,37,New Zealand,MJ Guptill,c Rubel Hossain b Shakib Al Hasan,105,132,100,11,2,105.00
+658,37,New Zealand,BB McCullum*,c Soumya Sarkar b Shakib Al Hasan,8,15,8,1,0,100.00
+659,37,New Zealand,KS Williamson,c Tamim Iqbal b Shakib Al Hasan,1,3,2,0,0,50.00
+660,37,New Zealand,LRPL Taylor,lbw b Nasir Hossain,56,161,97,5,0,57.73
+661,37,New Zealand,GD Elliott,c Taskin Ahmed b Rubel Hossain,39,34,34,5,1,114.70
+662,37,New Zealand,CJ Anderson,b Nasir Hossain,39,42,26,3,3,150.00
+663,37,New Zealand,L Ronchi†,c Nasir Hossain b Shakib Al Hasan,9,18,10,2,0,90.00
+664,37,New Zealand,DL Vettori,not out,16,19,10,1,1,160.00
+665,37,New Zealand,TG Southee,not out,12,7,6,1,1,200.00
+666,38,Afghanistan,Javed Ahmadi,c Root b Broad,7,31,15,0,0,46.66
+667,38,Afghanistan,Nawroz Mangal,c Root b Anderson,4,25,28,0,0,14.28
+668,38,Afghanistan,Afsar Zazai†,c †Buttler b Jordan,6,21,14,0,0,42.85
+669,38,Afghanistan,Nasir Jamal,c †Buttler b Bopara,17,75,52,2,0,32.69
+670,38,Afghanistan,Samiullah Shenwari,c Morgan b Jordan,7,16,11,1,0,63.63
+671,38,Afghanistan,Shafiqullah,c Bopara b Tredwell,30,73,64,1,0,46.87
+672,38,Afghanistan,Mohammad Nabi*,c Tredwell b Bopara,16,19,17,1,1,94.11
+673,38,Afghanistan,Najibullah Zadran,not out,12,20,15,2,0,80.00
+674,38,Afghanistan,Hamid Hassan,not out,0,8,2,0,0,0.00
+675,38,England,AD Hales,c †Afsar Zazai b Hamid Hassan,37,58,33,3,2,112.12
+676,38,England,IR Bell,not out,52,81,56,6,0,92.85
+677,38,England,JWA Taylor,not out,8,22,20,0,0,40.00
+678,39,Zimbabwe,CJ Chibhabha,c Dhawan b Mohammed Shami,7,20,16,1,0,43.75
+679,39,Zimbabwe,H Masakadza,c †Dhoni b Yadav,2,15,8,0,0,25.00
+680,39,Zimbabwe,SF Mire,c †Dhoni b MM Sharma,9,31,22,1,0,40.90
+681,39,Zimbabwe,BRM Taylor*†,c Dhawan b MM Sharma,138,155,110,15,5,125.45
+682,39,Zimbabwe,SC Williams,c & b Ashwin,50,66,57,3,3,87.71
+683,39,Zimbabwe,CR Ervine,c & b MM Sharma,27,67,41,1,1,65.85
+684,39,Zimbabwe,Sikandar Raza,b Mohammed Shami,28,19,15,1,3,186.66
+685,39,Zimbabwe,RW Chakabva,c RG Sharma b Yadav,10,26,13,0,0,76.92
+686,39,Zimbabwe,T Panyangara,c Yadav b Mohammed Shami,6,7,6,1,0,100.00
+687,39,Zimbabwe,T Mupariwa,not out,1,7,2,0,0,50.00
+688,39,Zimbabwe,TL Chatara,b Yadav,0,2,3,0,0,0.00
+689,39,India,RG Sharma,c Sikandar Raza b Panyangara,16,24,21,2,0,76.19
+690,39,India,S Dhawan,b Panyangara,4,27,20,1,0,20.00
+691,39,India,V Kohli,b Sikandar Raza,38,71,48,4,0,79.16
+692,39,India,AM Rahane,run out (Sikandar Raza/†Taylor),19,40,24,3,0,79.16
+693,39,India,SK Raina,not out,110,141,104,9,4,105.76
+694,39,India,MS Dhoni*†,not out,85,113,76,8,2,111.84
+695,40,Scotland,KJ Coetzer,c Smith b Starc,0,11,11,0,0,0.00
+696,40,Scotland,CS MacLeod,c Warner b Starc,22,31,19,5,0,115.78
+697,40,Scotland,MW Machan,c Faulkner b Cummins,40,63,35,6,0,114.28
+698,40,Scotland,PL Mommsen*,c Starc b Watson,0,2,2,0,0,0.00
+699,40,Scotland,FRJ Coleman,c Clarke b Johnson,0,12,7,0,0,0.00
+700,40,Scotland,RD Berrington,c Warner b Maxwell,1,5,6,0,0,16.66
+701,40,Scotland,MH Cross†,c †Haddin b Cummins,9,24,20,2,0,45.00
+702,40,Scotland,JH Davey,b Starc,26,36,35,4,0,74.28
+703,40,Scotland,RML Taylor,c †Haddin b Cummins,0,13,6,0,0,0.00
+704,40,Scotland,MA Leask,not out,23,21,11,4,0,209.09
+705,40,Scotland,I Wardlaw,b Starc,0,2,2,0,0,0.00
+706,40,Australia,MJ Clarke*,c Leask b Wardlaw,47,55,47,7,2,100.00
+707,40,Australia,AJ Finch,c Coleman b Taylor,20,14,10,3,1,200.00
+708,40,Australia,SR Watson,c †Cross b Davey,24,36,23,4,0,104.34
+709,40,Australia,JP Faulkner,not out,16,15,6,2,1,266.66
+710,40,Australia,DA Warner,not out,21,11,6,2,2,350.00
+711,41,United Arab Emirates,Amjad Ali,lbw b Holder,5,28,19,0,0,26.31
+712,41,United Arab Emirates,AR Berenger,c †Ramdin b Holder,7,16,7,1,0,100.00
+713,41,United Arab Emirates,Krishna Chandran,c Smith b Holder,0,9,6,0,0,0.00
+714,41,United Arab Emirates,Khurram Khan,b Taylor,5,8,5,1,0,100.00
+715,41,United Arab Emirates,Shaiman Anwar,b Taylor,2,16,6,0,0,33.33
+716,41,United Arab Emirates,SP Patil†,b Holder,6,33,20,0,0,30.00
+717,41,United Arab Emirates,Amjad Javed,b Russell,56,133,99,7,1,56.56
+718,41,United Arab Emirates,Nasir Aziz,c Holder b Samuels,60,120,86,8,0,69.76
+719,41,United Arab Emirates,Mohammad Naveed,b Russell,14,6,9,1,1,155.55
+720,41,United Arab Emirates,Mohammad Tauqir*,b Taylor,2,18,19,0,0,10.52
+721,41,United Arab Emirates,AM Guruge,not out,4,13,10,0,0,40.00
+722,41,West Indies,DR Smith,c †Patil b Guruge,15,11,9,1,1,166.66
+723,41,West Indies,J Charles,c Krishna Chandran b Amjad Javed,55,68,40,9,2,137.50
+724,41,West Indies,MN Samuels,c Berenger b Guruge,9,19,18,1,0,50.00
+725,41,West Indies,JL Carter,not out,50,104,58,5,0,86.20
+726,41,West Indies,AD Russell,c & b Amjad Javed,7,10,8,0,1,87.50
+727,41,West Indies,D Ramdin†,not out,33,55,50,2,0,66.00
+728,42,Ireland,WTS Porterfield*,c Shahid Afridi b Sohail Khan,107,161,131,11,1,81.67
+729,42,Ireland,PR Stirling,lbw b Ehsan Adil,3,15,8,0,0,37.50
+730,42,Ireland,EC Joyce,c Umar Akmal b Wahab Riaz,11,41,18,1,0,61.11
+731,42,Ireland,NJ O'Brien,c Umar Akmal b Rahat Ali,12,20,10,2,0,120.00
+732,42,Ireland,A Balbirnie,c Shahid Afridi b Haris Sohail,18,44,36,0,0,50.00
+733,42,Ireland,GC Wilson†,c Wahab Riaz b Sohail Khan,29,46,38,2,0,76.31
+734,42,Ireland,KJ O'Brien,c Sohaib Maqsood b Wahab Riaz,8,40,16,1,0,50.00
+735,42,Ireland,SR Thompson,c Umar Akmal b Rahat Ali,12,14,15,1,0,80.00
+736,42,Ireland,JF Mooney,c Umar Akmal b Wahab Riaz,13,27,19,1,0,68.42
+737,42,Ireland,GH Dockrell,run out (†Sarfraz Ahmed/Wahab Riaz),11,13,8,0,1,137.50
+738,42,Ireland,AR Cusack,not out,1,3,1,0,0,100.00
+739,42,Pakistan,Ahmed Shehzad,c Joyce b Thompson,63,94,71,7,0,88.73
+740,42,Pakistan,Sarfraz Ahmed†,not out,101,200,124,6,0,81.45
+741,42,Pakistan,Haris Sohail,run out (Balbirnie/Dockrell),3,9,7,0,0,42.85
+742,42,Pakistan,Misbah-ul-Haq*,hit wicket b Cusack,39,59,46,3,2,84.78
+743,42,Pakistan,Umar Akmal,not out,20,36,29,4,0,68.96
+744,43,Sri Lanka,MDKJ Perera,c †de Kock b Abbott,3,6,10,0,0,30.00
+745,43,Sri Lanka,TM Dilshan,c du Plessis b Steyn,0,19,7,0,0,0.00
+746,43,Sri Lanka,KC Sangakkara†,c Miller b Morkel,45,151,96,3,0,46.87
+747,43,Sri Lanka,HDRL Thirimanne,c & b Imran Tahir,41,63,48,5,0,85.41
+748,43,Sri Lanka,DPMD Jayawardene,c du Plessis b Imran Tahir,4,13,16,0,0,25.00
+749,43,Sri Lanka,AD Mathews*,c du Plessis b Duminy,19,37,32,1,0,59.37
+750,43,Sri Lanka,NLTC Perera,c Rossouw b Imran Tahir,0,4,3,0,0,0.00
+751,43,Sri Lanka,KMDN Kulasekara,c †de Kock b Duminy,1,4,2,0,0,50.00
+752,43,Sri Lanka,PHT Kaushal,lbw b Duminy,0,1,1,0,0,0.00
+753,43,Sri Lanka,PVD Chameera,not out,2,17,5,0,0,40.00
+754,43,Sri Lanka,SL Malinga,c Miller b Imran Tahir,3,7,6,0,0,50.00
+755,43,South Africa,HM Amla,c Kulasekara b Malinga,16,30,23,1,0,69.56
+756,43,South Africa,Q de Kock†,not out,78,89,57,12,0,136.84
+757,43,South Africa,F du Plessis,not out,21,55,31,0,0,67.74
+758,44,India,RG Sharma,b Taskin Ahmed,137,223,126,14,3,108.73
+759,44,India,S Dhawan,st †Mushfiqur Rahim b Shakib Al Hasan,30,74,50,3,0,60.00
+760,44,India,V Kohli,c †Mushfiqur Rahim b Rubel Hossain,3,6,8,0,0,37.50
+761,44,India,AM Rahane,c Shakib Al Hasan b Taskin Ahmed,19,38,37,1,0,51.35
+762,44,India,SK Raina,c †Mushfiqur Rahim b Mashrafe Mortaza,65,81,57,7,1,114.03
+763,44,India,MS Dhoni*†,c Nasir Hossain b Taskin Ahmed,6,28,11,0,0,54.54
+764,44,India,RA Jadeja,not out,23,15,10,4,0,230.00
+765,44,India,R Ashwin,not out,3,5,3,0,0,100.00
+766,44,Bangladesh,Tamim Iqbal,c †Dhoni b Yadav,25,28,25,4,0,100.00
+767,44,Bangladesh,Imrul Kayes,run out (Jadeja/Yadav),5,31,14,0,0,35.71
+768,44,Bangladesh,Soumya Sarkar,c †Dhoni b Mohammed Shami,29,59,43,3,1,67.44
+769,44,Bangladesh,Mahmudullah,c Dhawan b Mohammed Shami,21,44,31,2,0,67.74
+770,44,Bangladesh,Shakib Al Hasan,c Mohammed Shami b Jadeja,10,36,34,0,0,29.41
+771,44,Bangladesh,Mushfiqur Rahim†,c †Dhoni b Yadav,27,50,43,2,0,62.79
+772,44,Bangladesh,Sabbir Rahman,c Mohammed Shami b Yadav,30,68,40,2,0,75.00
+773,44,Bangladesh,Nasir Hossain,c Ashwin b Jadeja,35,29,34,6,0,102.94
+774,44,Bangladesh,Mashrafe Mortaza*,c †Dhoni b MM Sharma,1,4,3,0,0,33.33
+775,44,Bangladesh,Rubel Hossain,c Ashwin b Yadav,0,2,3,0,0,0.00
+776,44,Bangladesh,Taskin Ahmed,not out,0,1,0,0,0,-
+777,45,Pakistan,Ahmed Shehzad,c Clarke b Hazlewood,5,23,13,0,0,38.46
+778,45,Pakistan,Sarfraz Ahmed†,c Watson b Starc,10,19,16,1,0,62.50
+779,45,Pakistan,Haris Sohail,c †Haddin b Johnson,41,94,57,4,0,71.92
+780,45,Pakistan,Misbah-ul-Haq*,c Finch b Maxwell,34,75,59,1,2,57.62
+781,45,Pakistan,Umar Akmal,c Finch b Maxwell,20,24,25,2,0,80.00
+782,45,Pakistan,Sohaib Maqsood,c Johnson b Hazlewood,29,63,44,1,0,65.90
+783,45,Pakistan,Shahid Afridi,c Finch b Hazlewood,23,21,15,3,1,153.33
+784,45,Pakistan,Wahab Riaz,c †Haddin b Starc,16,35,22,2,0,72.72
+785,45,Pakistan,Ehsan Adil,c Starc b Faulkner,15,32,22,1,0,68.18
+786,45,Pakistan,Sohail Khan,c †Haddin b Hazlewood,4,7,5,0,0,80.00
+787,45,Pakistan,Rahat Ali,not out,6,20,21,0,0,28.57
+788,45,Australia,DA Warner,c Rahat Ali b Wahab Riaz,24,41,23,3,0,104.34
+789,45,Australia,AJ Finch,lbw b Sohail Khan,2,11,5,0,0,40.00
+790,45,Australia,SPD Smith,lbw b Ehsan Adil,65,115,69,7,0,94.20
+791,45,Australia,MJ Clarke*,c Sohaib Maqsood b Wahab Riaz,8,10,11,0,0,72.72
+792,45,Australia,SR Watson,not out,64,114,66,7,1,96.96
+793,45,Australia,GJ Maxwell,not out,44,37,29,5,2,151.72
+794,46,New Zealand,MJ Guptill,not out,237,223,163,24,11,145.39
+795,46,New Zealand,BB McCullum*,c Holder b Taylor,12,18,8,1,1,150.00
+796,46,New Zealand,KS Williamson,c Gayle b Russell,33,48,35,5,0,94.28
+797,46,New Zealand,LRPL Taylor,run out (†Ramdin/Benn),42,92,61,2,0,68.85
+798,46,New Zealand,CJ Anderson,c Gayle b Russell,15,25,16,1,1,93.75
+799,46,New Zealand,GD Elliott,lbw b Taylor,27,20,11,2,2,245.45
+800,46,New Zealand,L Ronchi†,c Benn b Taylor,9,13,5,2,0,180.00
+801,46,New Zealand,DL Vettori,not out,8,7,2,2,0,400.00
+802,46,West Indies,CH Gayle,b Milne,61,77,33,2,8,184.84
+803,46,West Indies,J Charles,b Boult,3,5,6,0,0,50.00
+804,46,West Indies,LMP Simmons,c Guptill b Boult,12,18,17,1,1,70.58
+805,46,West Indies,MN Samuels,c Vettori b Boult,27,17,15,3,1,180.00
+806,46,West Indies,D Ramdin†,lbw b Boult,0,2,4,0,0,0.00
+807,46,West Indies,JL Carter,b Vettori,32,58,39,4,1,82.05
+808,46,West Indies,DJG Sammy,c †Ronchi b Anderson,27,21,16,3,1,168.75
+809,46,West Indies,AD Russell,b Southee,20,16,11,1,2,181.81
+810,46,West Indies,JO Holder*,c Anderson b Vettori,42,33,26,5,2,161.53
+811,46,West Indies,JE Taylor,c Guptill b Southee,11,8,12,2,0,91.66
+812,46,West Indies,SJ Benn,not out,9,13,4,2,0,225.00
+813,47,South Africa,HM Amla,b Boult,10,15,14,2,0,71.42
+814,47,South Africa,Q de Kock†,c Southee b Boult,14,36,17,2,0,82.35
+815,47,South Africa,F du Plessis,c †Ronchi b Anderson,82,155,107,7,1,76.63
+816,47,South Africa,RR Rossouw,c Guptill b Anderson,39,77,53,2,1,73.58
+817,47,South Africa,AB de Villiers*,not out,65,84,45,8,1,144.44
+818,47,South Africa,DA Miller,c †Ronchi b Anderson,49,23,18,6,3,272.22
+819,47,South Africa,JP Duminy,not out,8,4,4,1,0,200.00
+820,47,New Zealand,MJ Guptill,run out (Amla/†de Kock),34,80,38,3,1,89.47
+821,47,New Zealand,BB McCullum*,c Steyn b Morkel,59,32,26,8,4,226.92
+822,47,New Zealand,KS Williamson,b Morkel,6,12,11,1,0,54.54
+823,47,New Zealand,LRPL Taylor,c †de Kock b Duminy,30,57,39,4,0,76.92
+824,47,New Zealand,GD Elliott,not out,84,132,73,7,3,115.06
+825,47,New Zealand,CJ Anderson,c du Plessis b Morkel,58,80,57,6,2,101.75
+826,47,New Zealand,L Ronchi†,c Rossouw b Steyn,8,13,7,1,0,114.28
+827,47,New Zealand,DL Vettori,not out,7,19,6,1,0,116.66
+828,48,Australia,AJ Finch,c Dhawan b Yadav,81,160,116,7,1,69.82
+829,48,Australia,DA Warner,c Kohli b Yadav,12,14,7,1,1,171.42
+830,48,Australia,SPD Smith,c RG Sharma b Yadav,105,121,93,11,2,112.90
+831,48,Australia,GJ Maxwell,c Rahane b Ashwin,23,17,14,3,1,164.28
+832,48,Australia,SR Watson,c Rahane b MM Sharma,28,51,30,2,1,93.33
+833,48,Australia,MJ Clarke*,c RG Sharma b MM Sharma,10,16,12,1,0,83.33
+834,48,Australia,JP Faulkner,b Yadav,21,20,12,3,1,175.00
+835,48,Australia,BJ Haddin†,not out,7,22,7,1,0,100.00
+836,48,Australia,MG Johnson,not out,27,14,9,4,1,300.00
+837,48,India,RG Sharma,b Johnson,34,83,48,1,2,70.83
+838,48,India,S Dhawan,c Maxwell b Hazlewood,45,57,41,6,1,109.75
+839,48,India,V Kohli,c †Haddin b Johnson,1,11,13,0,0,7.69
+840,48,India,AM Rahane,c †Haddin b Starc,44,87,68,2,0,64.70
+841,48,India,SK Raina,c †Haddin b Faulkner,7,20,11,1,0,63.63
+842,48,India,MS Dhoni*†,run out (Maxwell),65,94,65,3,2,100.00
+843,48,India,RA Jadeja,run out (Smith),16,23,17,2,0,94.11
+844,48,India,R Ashwin,b Faulkner,5,19,13,0,0,38.46
+845,48,India,Mohammed Shami,not out,1,11,1,0,0,100.00
+846,48,India,MM Sharma,b Faulkner,0,1,1,0,0,0.00
+847,48,India,UT Yadav,b Starc,0,5,5,0,0,0.00
+848,49,New Zealand,MJ Guptill,b Maxwell,15,48,34,1,1,44.11
+849,49,New Zealand,BB McCullum*,b Starc,0,3,3,0,0,0.00
+850,49,New Zealand,KS Williamson,c & b Johnson,12,52,33,1,0,36.36
+851,49,New Zealand,LRPL Taylor,c †Haddin b Faulkner,40,104,72,2,0,55.55
+852,49,New Zealand,GD Elliott,c †Haddin b Faulkner,83,133,82,7,1,101.21
+853,49,New Zealand,CJ Anderson,b Faulkner,0,3,2,0,0,0.00
+854,49,New Zealand,L Ronchi†,c Clarke b Starc,0,6,4,0,0,0.00
+855,49,New Zealand,DL Vettori,b Johnson,9,23,21,1,0,42.85
+856,49,New Zealand,TG Southee,run out (Maxwell),11,21,11,0,1,100.00
+857,49,New Zealand,MJ Henry,c Starc b Johnson,0,14,7,0,0,0.00
+858,49,New Zealand,TA Boult,not out,0,3,1,0,0,0.00
+859,49,Australia,DA Warner,c Elliott b Henry,45,51,46,7,0,97.82
+860,49,Australia,AJ Finch,c & b Boult,0,7,5,0,0,0.00
+861,49,Australia,SPD Smith,not out,56,137,71,3,0,78.87
+862,49,Australia,MJ Clarke*,b Henry,74,84,72,10,1,102.77
+863,49,Australia,SR Watson,not out,2,10,5,0,0,40.00
