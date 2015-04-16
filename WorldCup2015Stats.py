@@ -57,6 +57,6 @@ for index, matchLink in enumerate(matchLinks):
 
 battingDF = DataFrame(batting, columns = ['MatchNum', 'Country', 'Batsman','Dismissal-Info','R','M','B','4s','6s', 'SR'])
 bowlingDF = DataFrame(bowling, columns = ['MatchNum', 'Country','Bowler','O','M','R','W','Econ','0s','4s','6s','Extra'])
-print battingDF
-print bowlingDF
+battingDF.to_csv('I:\\WebScraping\\CricketWorldCup2015\\batting.csv', encoding = 'utf-8')
+bowlingDF.to_csv('I:\\WebScraping\\CricketWorldCup2015\\bowling.csv', encoding = 'utf-8')
     
